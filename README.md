@@ -21,3 +21,6 @@
 ## устоновка 
    ```bash
    git clone https://github.com/firstpet-lampochka7/random.py
+
+```bash
+   git clone https://github.com/firstpet-lampochka7/main.py
