@@ -20,7 +20,9 @@
 
 ## устоновка 
    ```bash
-   git clone https://github.com/firstpet-lampochka7/random.py
-
-```bash
-   git clone https://github.com/firstpet-lampochka7/main.py
+   git clone https://github.com/firstpet-lampochka7/random.py 
+   ```
+или 
+   ```bash
+   git clone https://github.com/firstpet-lampochka7/main.py 
+   ```
